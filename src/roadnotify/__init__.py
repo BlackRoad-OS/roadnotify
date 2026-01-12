@@ -1,1 +1,1 @@
-"""RoadNotify - Notification System for BlackRoad."""
+"""roadnotify - BlackRoad OS"""
